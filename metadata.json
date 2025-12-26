@@ -1,0 +1,7 @@
+{
+  "name": "IntelliGuard Inspection",
+  "description": "A comprehensive retail inspection and management system featuring role-based dashboards, rectification workflows, video inspections, and data analytics.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
